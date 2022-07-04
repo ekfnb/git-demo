@@ -1,5 +1,5 @@
 hello Git hello JavaScript 123 456
 hello Git hello JavaScript 123 456
 hello Git hello JavaScript 123 456
-hello Git hello JavaScript 123 456
+hello Git hello JavaScript 123 456 merge test
 

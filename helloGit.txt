@@ -1,18 +1,5 @@
-hello Git
-hello Git
-hello Git
-hello Git
-hello Git
-hello Git
-hello Git
-hello Git
-hello Git
-hello Git
-hello Git
-hello Git
-hello Git
-hello Git
-hello Git
-hello Git
-hello Git
-hello Git
+hello Git hello JavaScript
+hello Git hello JavaScript
+hello Git hello JavaScript
+hello Git hello JavaScript
+
